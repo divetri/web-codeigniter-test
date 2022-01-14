@@ -1,0 +1,10 @@
+*{
+    background-color: #ece5db;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+}
+.table{
+    width: 60%;
+    margin: auto;
+    text-align: center !important;
+}
